@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Google Drive\Altium Projects\PSB_Xmas_Tree\V1.0\PSB_Xmas_Tree.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=psb_xmas_tree_default_nc drill files-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=psb_xmas_tree_default_nc drill files-nonplated.txt|DrillLayers=gtl,gbl

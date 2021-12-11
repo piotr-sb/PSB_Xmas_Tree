@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PSB_Xmas_Tree.PcbDoc   2021-10-17  20:06:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PSB_Xmas_Tree_Default_NC Drill Files-Plated.TXT
+ASCII Non-Plated RoundHoles File : PSB_Xmas_Tree_Default_NC Drill Files-NonPlated.TXT
+EIA File   : PSB_Xmas_Tree_Default_NC Drill Files.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             3         PTH        0.00mm (0.00inch)
+T2      0.9mm (35mil)                                             Round             48        PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             45        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00

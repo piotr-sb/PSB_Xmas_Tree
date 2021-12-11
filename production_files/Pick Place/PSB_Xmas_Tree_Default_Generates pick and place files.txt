@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+D:\Google Drive\Altium Projects\PSB_Xmas_Tree\V1.0\Project Outputs\Assembly_Variant_Default\Pick Place\PSB_Xmas_Tree_Default_Generates pick and place files.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17-10-21
+Time:       20:06
+Revision:   Not in VersionControl
+Variant:    Default
+Units used: mm
+
+Designator Comment       Layer       Footprint              Center-X(mm) Center-Y(mm) Rotation         Description                  
+J1         USB_A_PCB     TopLayer    USB-A-PCB              21.7476      -0.0026      180              "USB A PCB Edge connector"   
+R18        1k            BottomLayer R0603                  2.3000       -0.9000      90               "RES, 1k, 1%, 0.063 W, 0603" 
+R16        1k            BottomLayer R0603                  -1.8867      1.4599       0                "RES, 1k, 1%, 0.063 W, 0603" 
+R19        1k            BottomLayer R0603                  2.4000       1.1000       360              "RES, 1k, 1%, 0.063 W, 0603" 
+R17        1k            BottomLayer R0603                  -1.9000      0.2000       360              "RES, 1k, 1%, 0.063 W, 0603" 
+R13        1k            BottomLayer R0603                  6.5000       -3.5000      330              "RES, 1k, 1%, 0.063 W, 0603" 
+R12        1k            BottomLayer R0603                  -4.7892      -5.5094      229              "RES, 1k, 1%, 0.063 W, 0603" 
+R11        1k            BottomLayer R0603                  -7.1835      1.5590       165,117492675781 "RES, 1k, 1%, 0.063 W, 0603" 
+R9         1k            BottomLayer R0603                  -6.5023      3.4277       150,141159057617 "RES, 1k, 1%, 0.063 W, 0603" 
+R15        1k            BottomLayer R0603                  1.0000       -0.9000      90               "RES, 1k, 1%, 0.063 W, 0603" 
+R14        1k            BottomLayer R0603                  7.1000       -1.6000      165              "RES, 1k, 1%, 0.063 W, 0603" 
+R2         1k            BottomLayer R0603                  4.9031       5.4701       45,3497200012207 "RES, 1k, 1%, 0.063 W, 0603" 
+R10        1k            BottomLayer R0603                  9.8727       -5.7000      330              "RES, 1k, 1%, 0.063 W, 0603" 
+R8         1k            BottomLayer R0603                  3.3038       -10.8062     287              "RES, 1k, 1%, 0.063 W, 0603" 
+R7         1k            BottomLayer R0603                  -5.1313      -10.2917     243,499992370605 "RES, 1k, 1%, 0.063 W, 0603" 
+R6         1k            BottomLayer R0603                  -10.1000     -5.6000      210              "RES, 1k, 1%, 0.063 W, 0603" 
+R5         1k            BottomLayer R0603                  -9.9000      5.7000       150              "RES, 1k, 1%, 0.063 W, 0603" 
+R4         1k            BottomLayer R0603                  -3.0896      11.0452      110              "RES, 1k, 1%, 0.063 W, 0603" 
+R3         1k            BottomLayer R0603                  3.5000       11.4000      160              "RES, 1k, 1%, 0.063 W, 0603" 
+R1         1k            BottomLayer R0603                  11.2000      0.0000       360              "RES, 1k, 1%, 0.063 W, 0603" 
+D18        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 1.2313       -3.3829      200              "LED, THT 3mm, Green"        
+D19        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 0.0000       0.0000       65               "LED, THT 3mm, Green"        
+D17        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -3.3828      -1.2315      290              "LED, THT 3mm, Green"        
+D16        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -1.2313      3.3829       20               "LED, THT 3mm, Green"        
+D15        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 3.3828       1.2314       290              "LED, THT 3mm, Green"        
+D14        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 4.6639       -5.5748      240              "LED, THT 3mm, Green"        
+D13        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -2.4759      -6.8338      317              "LED, THT 3mm, Green"        
+D12        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -7.1398      -1.2593      255              "LED, THT 3mm, Green"        
+D11        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -4.6639      5.5748       60               "LED, THT 3mm, Green"        
+D10        FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 2.4759       6.8338       360              "LED, THT 3mm, Green"        
+D9         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 7.1398       1.2593       255              "LED, THT 3mm, Green"        
+D8         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 7.8000       -7.8000      225              "LED, THT 3mm, Green"        
+D7         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 0.0000       -11.0000     180              "LED, THT 3mm, Green"        
+D6         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -7.8000      -7.8000      135              "LED, THT 3mm, Green"        
+D5         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -11.0000     0.0000       90               "LED, THT 3mm, Green"        
+D4         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN -7.8000      7.8000       45               "LED, THT 3mm, Green"        
+D3         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 0.0000       11.0000      360              "LED, THT 3mm, Green"        
+D2         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 7.8000       7.8000       315              "LED, THT 3mm, Green"        
+D1         FYL-3014PGC1A TopLayer    LED_THT_TYPE_3MM_GREEN 11.0000      0.0000       270              "LED, THT 3mm, Green"        

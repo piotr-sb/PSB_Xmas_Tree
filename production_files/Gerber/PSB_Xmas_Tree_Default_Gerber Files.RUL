@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: D:\Google Drive\Altium Projects\PSB_Xmas_Tree\V1.0\PSB_Xmas_Tree.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_NoNet|Scope=Board|Allowed=1
+RuleKind=Width|RuleName=With_RFNet|Scope=Board|Minimum=10.12
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.36
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_BoardEdge|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_BoardEdge_Poly|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Edge_pads|Scope=Board|Minimum=5.91
