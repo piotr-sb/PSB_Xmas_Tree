@@ -3,7 +3,7 @@ PCB Xmas tree with LEDs
 
 This little and fun project was created to bring smile to peoples face durig Xmas.
 
-It is a USB powered, easy to make Christmas tree with minimal number of components.
+It is USB powered, easy to make Christmas tree with minimal number of components.
 
 <img src="doc/assets/IMG_20211211_211406840.jpg" width="350"/>
 <img src="doc/assets/IMG_20211105_232312529.jpg" width="350"/>
