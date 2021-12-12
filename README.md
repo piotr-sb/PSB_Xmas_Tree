@@ -25,3 +25,7 @@ LEDs legs are used also as mechanical support connecting layers together and pro
 The PCB is 1.6mm thick, which is not enough for the USB edge connector, this is why on the bottom side of the PCB a plasic psacer needs to be glued. I cut mine from some plastic bottle and used a universal glue.
 
 <img src="doc/assets/IMG_20211211_210656608.jpg" width="400"/>
+
+I wish everyone a Happy Xmas time! Have a magical holiday season!
+
+You can follow me on Twitter: https://twitter.com/Piotr_SB
