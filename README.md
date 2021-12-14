@@ -14,7 +14,7 @@ It is USB powered, easy to make Christmas tree with minimal number of components
 - 19x 1k 0603 resistor
 - PCB
 
-PCB was ordered from JLPCB:
+PCB was ordered from JLCPCB:
 
 <img src="doc/assets/IMG_20211105_203647495.jpg" width="400"/>
 
